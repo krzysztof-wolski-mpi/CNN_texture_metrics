@@ -1,6 +1,5 @@
-# CNN visibility metric
-> CNN-baded visibility metric which estimate visibile differences between two images.
-> Please find more information here: http://visibility-metrics.mpi-inf.mpg.de/
+# CNN visibility metric for selecting resolution of textures
+> Please find more information here: http://texture-metrics.mpi-inf.mpg.de/
 
 ## Requirements
 
